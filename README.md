@@ -8,3 +8,5 @@ Junior Web3 backend developer focused on blockchain event indexing and DeFi back
 
 ### Tech
 JavaScript · TypeScript · Python · Node.js · PostgreSQL · Web3
+
+![](https://komarev.com/ghpvc/?username=undefinedIsMyLife)
