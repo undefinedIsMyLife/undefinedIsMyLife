@@ -7,6 +7,6 @@ Junior Web3 backend developer focused on blockchain event indexing and DeFi back
 - Published research on DeFi banking systems
 
 ### Tech
-JavaScript · TypeScript · Python · Node.js · PostgreSQL · Web3
+JavaScript · TypeScript · Python · Node.js · PostgreSQL · Web3 · Shell · React 
 
 ![](https://komarev.com/ghpvc/?username=undefinedIsMyLife)
