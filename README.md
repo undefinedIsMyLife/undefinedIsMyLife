@@ -1,6 +1,6 @@
 ## Hi, I'm Tina 👋
 
-Junior Web3 backend developer focused on blockchain event indexing and DeFi backends.
+Junior backend developer 
 
 - Built Web3 event indexers and Uniswap-style AMM backends
 - Open-source contributor (Hedera ecosystem)
